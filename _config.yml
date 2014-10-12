@@ -1,0 +1,10 @@
+# Site settings
+title: Zprávař.cz
+email: ""
+description: "Aktuální zprávy ze všech českých zpravodajských serverů"
+baseurl: "" 
+url: "http://zpravar.cz"
+twitter_username: zpravarcz
+
+# Build settings
+markdown: kramdown
